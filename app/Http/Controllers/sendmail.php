@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 use App\Mail\markdownmail;
 use Mail;
 use Illuminate\Http\Request;
-
+//also added in github repositaory
 class sendmail extends Controller
 {
 	public function index()
